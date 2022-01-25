@@ -1,0 +1,21 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Forkify Food Search App",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html && parcel watch index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Atanas Irikev",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.2.0",
+    "parcel": "^2.2.0"
+  },
+  "dependencies": {
+    "core-js": "^3.20.3",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
