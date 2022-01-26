@@ -5,6 +5,8 @@ This is the final project in Jonas Schmedtmann Udemy course [The Complete JavaSc
 
 View live project: [https://forkify-atanas.netlify.app](https://forkify-atanas.netlify.app/)
 
+![showcase](/forkify-home-page.jpg)
+
 ## The project combines most of the features taught in this course as:
 
     1. The MVC Architecture (Model-View-Controller)
